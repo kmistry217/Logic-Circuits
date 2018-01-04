@@ -130,13 +130,13 @@ AND IN1 IN3 temp2
 OR temp1 temp2 OUT1
 
 ./first circuit.txt
-0 0 0 0
-0 0 1 0
-0 1 1 0
-0 1 0 0
-1 1 0 1
-1 1 1 1
-1 0 1 1
+0 0 0 0 \n
+0 0 1 0 \n
+0 1 1 0 \n
+0 1 0 0 \n
+1 1 0 1 \n
+1 1 1 1 \n
+1 0 1 1 \n
 1 0 0 0
 
 The output of the first three columns are INPUTVAR IN1, IN2, and IN3 respectively. And the
